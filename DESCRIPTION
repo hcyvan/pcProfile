@@ -1,0 +1,9 @@
+Package: pcProfile
+Title: Prostate Cancer Transcription Network Analysis
+Version: 0.1
+Authors@R: person("NavyCheng", email = "navycheng2020@gmail.com", role = c("aut", "cre"))
+Description: This package show then workflow to Analysis Transcription Network in Prostate Cancer
+Depends: R (>= 3.4.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
