@@ -13,6 +13,7 @@
 ##' @param rewrite rewrite RDS
 ##' @param verbose log level
 ##' @return v1, v2, r, p.value, FDR
+##' @export
 ##' @author Navy Cheng
 multicor <- function(data, method= c('pearson', 'kendall', 'spearman'), rds=NA, rewrite=FALSE, verbose=TRUE) {
   if(!is.na(rds)) {

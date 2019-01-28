@@ -5,4 +5,7 @@
 #' @format A data frame with 60483 rows and 551 samples.
 
 "prad.rna.count"
+"tf2gene.jasper"
+"tf2gene.trrust"
+"tf2gene.gtrd"
 
